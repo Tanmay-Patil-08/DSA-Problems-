@@ -29,7 +29,7 @@ class GFG
 //User function Template for Java
 
 class Solution{
-    static int [][] mat;
+    static int [][] mat ;
     static int matrixMultiplication(int N, int arr[])
     {
         mat = new int[N][N];
